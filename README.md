@@ -29,7 +29,7 @@ O projeto tem como responsabilidade realizar testes automatizados na API do GitH
 ### Para rodar localmente
 
 Para os testes nas APIs do GitHub, é necessário um token de autenticação. 
-Realizar a solicitição pelo e-mail: rangel-16@hotmail.com
+Realizar a solicitação pelo e-mail: rangel-16@hotmail.com
 
 Na pasta do projeto:
 
