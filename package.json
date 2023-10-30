@@ -1,0 +1,14 @@
+{
+  "name": "projeto_cypress_api_github",
+  "version": "1.0.0",
+  "description": "Projeto técnico de testes automatizados em API para a empresa Zitrus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  }
+}

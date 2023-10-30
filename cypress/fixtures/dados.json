@@ -1,0 +1,20 @@
+{
+    "dadosNovoRepositorio": {
+        "name": "Repositorio-Teste",
+        "description": "Repositório de testes automatizados",
+        "homepage": "https://github.com",
+        "private": false,
+        "is_template": true
+    },
+    "dadosNovaIssue": {
+        "title": "Found a bug",
+        "body": "I'm having a problem with this.",
+        "labels": [
+            "bug"
+        ]
+    },
+    "dadosRepoNotFound": {
+        "message": "Not Found",
+        "documentation_url": "https://docs.github.com/rest"
+    }
+}
